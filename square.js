@@ -1,9 +1,9 @@
-void setup(){
+function setup(){
     createCanvas(300, 300);
     background(150);
 }
 
-void draw(){
+function draw(){
 
 }
 
