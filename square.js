@@ -4,7 +4,7 @@ function setup(){
 }
 
 function draw(){
-    
+    color(0);
     square(300, 300, 30, 30);
 }
 
