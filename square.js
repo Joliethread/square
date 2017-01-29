@@ -1,9 +1,10 @@
 function setup(){
-    createCanvas(600,600);
+    createCanvas(windowsWidth,windowHeight);
     background(255);
 }
 
 function draw(){
     rect(300,300,mouseX,mouseY);
+    createCanvas(windowsWidth,windowHeight);
 }
 
