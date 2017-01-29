@@ -3,5 +3,6 @@ void setup(){
 }
 
 void draw(){
-    rect(50, 50, 100, 100)
+    stroke(255);
+    rect(50, 50, 100, 100);
 }
