@@ -5,6 +5,5 @@ function setup(){
 
 function draw(){
     square(300, 300, mouseX, mouseY);
-    background(255);
 }
 
